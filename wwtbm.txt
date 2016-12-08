@@ -1,0 +1,189 @@
+Es el lenguaje c ...
+Todas las anteriores
+Portable
+De bajo nivel
+Lenguaje ensamblador
+Flexible
+Muy usado
+Facil
+Factible
+¿Cuál es la biblioteca que los compiladores en c incluyen mayormente? 
+ANSI
+ASCCI
+ASCII
+ANCI
+STDIO
+STRING
+STDLIB
+STADIO
+¿Entre qué décadas se comenzó a desarrollar los lenguajes de programación?
+50-60
+40-50
+30-40
+60-70
+70-80
+80-90
+50
+60
+¿Cuál es la segunda fase de la resolución de un problema con computadora?
+Diseño del algoritmo
+Análisis del problema
+Decisiones
+Compilación
+Codificación
+Secuencias
+Repeticiones
+Pasos
+Precisión, definido, finito, son las características de...
+Un algoritmo
+Un programa
+Todas las anteriores
+Un archivo en c
+Una base de datos
+Un ciclo
+Una computadora
+Un pseudocódigo
+Secuencia, selección, repetición son estructuras de...
+Control
+Programación
+Toma de decisiones
+Ninguna de las anteriores
+Juego
+Análisis
+Desarrollo
+Código
+¿Cuál de las siguientes palabras debe ser obligatoriamente escrita en un programa en c?
+main
+stdio
+include
+return
+todas las anteriores
+int
+void
+stdlib
+¿Para qué se utiliza principalmente la directiva #include?
+Para que el programa tenga salida
+Para que el programa tenga entrada
+Para que el programa tenga bibliotecas
+Todas las anteriores
+Para que el programa compile
+Para que el programa se ejecute
+Porque es un programa en c
+#include no es una directiva
+¿Cómo se le denomina al programa más corto de c?
+Programa vacio
+Programa sin datos
+Programa especial
+No tiene una denominación
+Programa en cero
+Short program
+Programa ejecutable
+Programa short
+Los archivos de cabecera en c tienen normalmente una extensión...
+.h
+.c
+.C
+.o
+.O
+.obj
+.H
+.cp
+Los archivos fuente en c tienen normalmente una extensión...
+.c
+.h
+.C
+.o
+.O
+.obj
+.H
+.cp
+Los errores de línea de órdenes y errores de acceso a memoria se denominan...
+Errores de sintáxis
+Errores de semántica
+Errores fatales
+Errores de apertura
+Errorres ejecutables
+Errores compilables
+Errores accesibles
+Errores inevitables
+¿Cuál es el resultado de la siguiente expresión: 7-10*5%3-4+9?
+10
+17
+96
+18
+16
+95
+9
+12
+¿Qué es una evaluación en corto circuito?
+Utilizar los operadores lógicos
+Utilizar los operadores relacionales
+Utilizar los operadores de dirección
+No existe tal evaluación
+Es algo de eléctrica
+Utilizar los operadores aritméticos
+Una operación de C++
+Operadores de manipulación de bits
+¿Cuál es el orden correcto de los operadores aritméticos?
+* / + -
+/ * + -
+% * + -
+* / - +
+/ * - +
++ - / *
+* % + -
+- + * /
+¿Qué es una referencia?
+Un alias para un objeto
+Un operador
+Ninguna de las anteriores
+Una palabra para renombrar un objeto
+Un puntero
+Una dirección
+Una función
+Un cambio de valor
+¿Cómo es el estándar para comentar en c?
+//
+/
+/* oracion */
+Todas las anteriores
+./
+/.
+./ oracion ./
+\\
+¿Qué no se puede definir?
+Una función dentro de otra
+Un ciclo de repetición dentro de otro
+Una condicional dentro de otra
+Un while dentro de otro
+Un if dentro de otro
+Una estructura dentro de otra
+Ninguna de las anteriores
+Un do-while dentro de otro
+¿Cuál de las siguientes no es una función de stdio.h
+vnprintf
+vsnprintf
+vsscanf
+sprintf
+snprintf
+sscanf
+vfscanf
+vfprintf
+¿Cuál es el algoritmo de ordenación que menos se usa generalmente?
+Burbuja
+Quick sort
+Shell
+Insercion
+Selección
+Intercambio
+Mergesort
+Todos se utilizan por igual
+¿Cuál es el resultado de la siguiente exprsión: 8*14/10-5+16?
+22
+23
+21
+20
+26
+25
+24
+19
