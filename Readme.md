@@ -1,4 +1,4 @@
-# Quien Quiere Ser Millonario - Who Wants to be Millionare #
+# Quien Quiere Ser Millonario - Who Wants to be Millionaire #
 
 Simple pero divertido juego programado en lenguaje c basado en el clásico programa de televisión 
 "Who Wants to be Millionare", con preguntas relacionadas a programación estructurada 
